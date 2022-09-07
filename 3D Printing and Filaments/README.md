@@ -1,1 +1,0 @@
-A simple but clean Bootstrap 5 HTML template from https://graycyan.com
